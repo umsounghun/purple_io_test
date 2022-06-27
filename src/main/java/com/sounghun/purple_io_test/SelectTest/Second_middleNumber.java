@@ -7,6 +7,6 @@ public class Second_middleNumber {
     // 2.사용하지_않는_가장_작은_숫자_찾기
     public static int middleNumber(int[] in) {
         int answer = 0;
-        return answer = in[1];
+        return answer = in[in.length/2];
     }
 }

@@ -25,9 +25,7 @@ public class codeTest {
         System.out.println(answer);
     }
 
-
     // 2번째 문제
-
 //    public static void main(String[] args) {
 //        int[] nums = {6, 1, 2, 2, 4, 5, 0};
 //
